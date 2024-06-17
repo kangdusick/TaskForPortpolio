@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PoolableManager
+  m_EditorClassIdentifier: 
+  m_GroupName: PoolableManager
+  m_Data:
+    m_SerializedData: []
+  m_GUID: df6ac88c6be1bd041b9c1a6b072f2749
+  m_SerializeEntries:
+  - m_GUID: 0304ee2122aaa6940b60ed53e0b100f7
+    m_Address: HexBlock
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b92743b84484ae746886340d85c3d419
+    m_Address: HexBlockContainer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4bf0678b3de41044906b69913db92e7
+    m_Address: NormalDestroyParticleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dc67ed69dffae0488d0783bb1ac759f
+    m_Address: Projectile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f175587f1a73fcb48a11a63fcf8cc6ee
+    m_Address: PopCommon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e43e445d0e4c404c9255b0e185ea9f5
+    m_Address: TopDistroyEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2eacbe4a782805840a7928a630c6bd1b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eb8204cb9f7e2984ca8f00d4a8b42ab3, type: 2}
+    - {fileID: 11400000, guid: 5d33d9aa73741e0488f5402f74c7e97b, type: 2}
